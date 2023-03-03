@@ -1,4 +1,4 @@
-<include a CircleCI status badge, here>
+[![Sayali1398](https://app.circleci.com/pipelines/github/Sayali1398/DevOps_Microservices/tree/circleci-project-setup.svg?style=svg)](https://app.circleci.com/pipelines/github/Sayali1398/DevOps_Microservices/6/workflows/b79141ca-d3af-4b71-8063-6b1968c1ef9e/jobs/2)
 
 ## Project Overview
 
